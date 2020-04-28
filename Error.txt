@@ -1,0 +1,58 @@
+exception by task schedulerabcxyznew varible abcxyz<br/>
+StackTrace :exception by task schedulerabcxyznew varible abcxyz
+Date :4/23/2020 4:49:23 PM
+
+-----------------------------------------------------------------------------
+
+exception by task schedulerordernew varible order<br/>
+StackTrace :exception by task schedulerordernew varible order
+Date :4/23/2020 6:20:14 PM
+
+-----------------------------------------------------------------------------
+
+exception by task schedulercknew varible ck<br/>
+StackTrace :exception by task schedulercknew varible ck
+Date :4/23/2020 6:21:44 PM
+
+-----------------------------------------------------------------------------
+
+Index was outside the bounds of the array.<br/>
+StackTrace :   at Tenaris_Order.Program.Main(String[] args) in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 46
+Date :4/23/2020 8:04:09 PM
+
+-----------------------------------------------------------------------------
+
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at<br/>
+StackTrace :   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Tenaris_Order.Program.TransactionOrdersSendAlert() in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 493
+   at Tenaris_Order.Program.SendAlert(String argsChk) in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 453
+Date :4/23/2020 8:05:40 PM
+
+-----------------------------------------------------------------------------
+
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at<br/>
+StackTrace :   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Tenaris_Order.Program.TransactionOrdersSendAlert() in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 493
+   at Tenaris_Order.Program.SendAlert(String argsChk) in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 453
+Date :4/23/2020 8:07:53 PM
+
+-----------------------------------------------------------------------------
+
+Object reference not set to an instance of an object.<br/>
+StackTrace :   at Tenaris_Order.Program.trynewmethod() in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 533
+Date :4/24/2020 8:52:12 AM
+
+-----------------------------------------------------------------------------
+
+Index was outside the bounds of the array.<br/>
+StackTrace :   at Tenaris_Order.Program.Main(String[] args) in D:\Umesh Work\Tenaris\Tenaris_Order\Tenaris_Order\Program.cs:line 45
+Date :4/24/2020 12:20:40 PM
+
+-----------------------------------------------------------------------------
+
